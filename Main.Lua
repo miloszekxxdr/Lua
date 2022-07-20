@@ -1,4 +1,4 @@
-admins = {"FakeNameHereSoNoStalkers"}
+admins = {"cookieplaysmyboyhack"}
 
 function kill(target)
     for i=1,#target do
